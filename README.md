@@ -3,8 +3,7 @@ CPE2301 ramamoorthy liftlogic final project
 LiftLogic/
 ├── src/
 │   ├── liftlogic_top.sv
-│   ├── input_controller.sv       // Piolo
-│   ├── request_manager.sv        // Piolo
+│   ├── inputlogic.sv       // Piolo
 │   ├── elevator_fsm.sv           // Alejandro
 │   ├── movement_timer.sv         // Thomas
 │   ├── door_controller.sv        // Thomas
